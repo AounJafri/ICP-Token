@@ -1,3 +1,18 @@
+# Customized ICP Tokens Website
+
+## Overview
+This project is a web application built on the Internet Computer (ICP) Blockchain, allowing users to interact with customized ICP tokens. Users can check their token balance, transfer tokens to another account, and claim free tokens through a user-friendly interface.
+
+## Features
+- **Check Balance**: View the balance of your customized ICP tokens.
+- **Transfer Tokens**: Send tokens to another account securely and efficiently.
+- **Claim Free Tokens**: Claim free tokens through the website's promotional feature.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Motoko (ICP smart contracts)
+- **Blockchain**: Internet Computer (ICP)
+- 
 # Check your Balance
 
 1. Find out your principal id:
